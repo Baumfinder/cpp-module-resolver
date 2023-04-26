@@ -12,4 +12,4 @@ Just run the built binary in your project's root folder, then the tool will loca
 
 ## Additional Notes
 
-The algorithm used just iterates over the files, until everything has been evaluated. This could be improoved by using a graph.
+The algorithm used just iterates over the files, until everything has been evaluated. This could be improved by using a graph.
