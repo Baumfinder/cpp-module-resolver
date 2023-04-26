@@ -3,4 +3,4 @@ main:
 
 clean:
 	rm -rf gcm.cache
-	rm -f a.out
+	rm -f cpp-module-resolver
